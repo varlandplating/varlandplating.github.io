@@ -9,4 +9,6 @@
 
 @font-face { font-family: 'SFMono-Bold'; src: url("/assets/fonts/SFMono-Bold.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/SFMono-Bold.otf") format("opentype"), url("/assets/fonts/SFMono-Bold.woff") format("woff"), url("/assets/fonts/SFMono-Bold.ttf") format("truetype"), url("/assets/fonts/SFMono-Bold.svg#SFMono-Bold") format("svg"); font-weight: normal; font-style: normal; }
 
+.text-varland-red { color: #df151a; }
+
 /*# sourceMappingURL=varland.css.map */
